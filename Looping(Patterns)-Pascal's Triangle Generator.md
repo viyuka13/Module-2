@@ -38,6 +38,8 @@ for n in range(rows):
         print(value, end=" ")
     print()
 ## Sample Output
+![image](https://github.com/user-attachments/assets/da73fbb7-09bc-4303-9b14-05e801d8921f)
+
 
 ## Result
 The Python program to generate Pascal’s Triangle using the combination formula has been executed successfully, and the output has been verified.
